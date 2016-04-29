@@ -1,7 +1,7 @@
 # BoutonReactif
 
 ## Exercice N°1
-Vous devez réaliser une fenêtre avec des voutons réactifs, identiquer au schéma ci-dessous:
+Vous devez réaliser une fenêtre avec des boutons réactifs, identiquer au schéma ci-dessous:
 
 ```  
 ╔════════════════════════╦═════════════════════════╗
